@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncTool", "SyncTool\SyncTool.csproj", "{CC2214C4-512F-443F-AD7B-7A41E157BBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC2214C4-512F-443F-AD7B-7A41E157BBBC}.Debug|x86.ActiveCfg = Debug|x86
+		{CC2214C4-512F-443F-AD7B-7A41E157BBBC}.Debug|x86.Build.0 = Debug|x86
+		{CC2214C4-512F-443F-AD7B-7A41E157BBBC}.Release|x86.ActiveCfg = Release|x86
+		{CC2214C4-512F-443F-AD7B-7A41E157BBBC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
